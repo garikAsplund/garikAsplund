@@ -1,4 +1,4 @@
-![alt text](https://github.com/garikAsplund/garikAsplund/blob/main/header2.png?raw=true)
+![alt text](https://github.com/garikAsplund/garikAsplund/blob/main/header4.png?raw=true)
 
 <!--
 Here are some ideas to get you started:
