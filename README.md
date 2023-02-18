@@ -1,11 +1,9 @@
-### Hi there 👋
-
 ![alt text](https://github.com/garikAsplund/garikAsplund/blob/main/header.png?raw=true)
+
+👨‍💻🐕😻😻🌲❄️⛷️🏔️📊
 
 
 <!--
-**garikAsplund/garikAsplund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
