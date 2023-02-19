@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Quell](http://www.quellql.com/)
 
-- 🌱 I’m currently learning **Svelte, Deno, Vite, and Python :)**
+- 🌱 I’m currently learning **Svelte + SvelteKit, Deno, Vite, and Python :)**
 
 - 💬 Ask me about **database management**
 
