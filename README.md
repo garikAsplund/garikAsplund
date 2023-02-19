@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garikasplund&label=Profile%20views&color=0e75b6&style=flat" alt="garikasplund" /> </p>
 
-- 🔭 I’m currently working on [Quell](http://www.quellql.com/)
+- 🔭 I’m currently working on [Quell](http://www.quellql.com/), a lightweight graphQL caching solution for client- and server-side
 
 - 🌱 I’m currently learning **Svelte + SvelteKit, Deno, Vite, and Python :)**
 
