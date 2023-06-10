@@ -8,7 +8,7 @@
 
 - 🔭 Recently troubleshooted [Quell](http://www.quellql.com/), a lightweight graphQL caching solution for client- and server-side
 
-- 🌱 I’m currently learning **SvelteKit :)**
+- 🌱 I’m learning **SvelteKit :)**
 
 - 💬 Ask me about **database management**
 
