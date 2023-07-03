@@ -4,7 +4,7 @@
 
 - ⚡ I’m currently working on polishing software for researchers at Yale-NUS using **Unity, C#, and Python**
 
-- 🔭 Recently troubleshooted [Quell](http://www.quellql.com/), a lightweight graphQL caching solution for client- and server-side
+- 🔭 Recently troubleshooted [Quell](https://www.quell.dev/), a lightweight graphQL caching solution for client- and server-side
 
 - 🌱 I’m learning **SvelteKit :)**
   
