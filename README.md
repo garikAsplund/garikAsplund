@@ -1,6 +1,8 @@
 ![alt text](https://github.com/garikAsplund/garikAsplund/blob/main/header4.png?raw=true)
 
-<h3 align="center">An eager full-stack developer from NE Oregon</h3>
+<h2 align="center">An eager full-stack developer from NE Oregon</h2>
+
+***
 
 - ⚡ I’m currently working on polishing software for researchers at Yale-NUS using **Unity, C#, and Python**
 
