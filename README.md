@@ -6,7 +6,7 @@
 
 - 🔭 Recently troubleshooted [Quell](https://www.quell.dev/), a lightweight graphQL caching solution for client- and server-side
 
-- 🌱 I’m learning **SvelteKit :)** and **Rust** because *safety, smallness, and speed are sexy*
+- 🌱 I’m learning **SvelteKit** and **Rust** because *safety, smallness, and speed are sexy*
   
 - 🤔 I like to play with **creative coding**
 
