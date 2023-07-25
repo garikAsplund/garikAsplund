@@ -8,7 +8,7 @@
 
 - 🌱 I’m learning **SvelteKit** and **Rust** because *safety, smallness, and speed are sexy*
   
-- 🤔 I like to play with **creative coding**
+- 🤔 I like to play with **creative coding** and **modular synths**
 
 - 💬 Ask me about **database management**
 
