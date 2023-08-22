@@ -1,6 +1,6 @@
 ![alt text](https://github.com/garikAsplund/garikAsplund/blob/main/header4.png?raw=true)
 
-<h2 align="center">An eager full-stack developer from NE Oregon</h2>
+<h2 align="center">Eager full stack developer in NE Oregon</h2>
 
 **[garik.codes](https://www.garik.codes/)**
 
