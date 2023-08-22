@@ -2,15 +2,15 @@
 
 <h2 align="center">An eager full-stack developer from NE Oregon</h2>
 
-**[Garik.codes](https://www.garik.codes/)**
+**[garik.codes](https://www.garik.codes/)**
 
 - ⚡ I’m currently working on polishing software for researchers at Yale-NUS using **Unity, C#, and Python**
 
 - 🔭 Recently troubleshooted [Quell](https://www.quell.dev/), a lightweight graphQL caching solution for client- and server-side
 
-- 🌱 I’m learning **SvelteKit** and **Rust** because I value *safety, smallness, and speed*
+- 🦀 I’m learning **SvelteKit** and **Rust** because I value *safety, smallness, and speed*
   
-- 🤔 I like to play with **creative coding** and **modular synths**
+- 🎨 I like to play with **creative coding** and **modular synths**
 
 - 💬 Ask me about **database management**
 
