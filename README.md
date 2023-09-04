@@ -2,7 +2,7 @@
 
 <h2 align="center">Eager full stack developer in NE Oregon</h2>
 
-**[garik.codes](https://www.garik.codes/)**
+Blogging at **[garik.codes](https://www.garik.codes/)**
 
 - ⚡ I’m currently working on polishing software for researchers at Yale-NUS using **Unity, C#, and Python**
 
