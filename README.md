@@ -4,7 +4,7 @@
 
 Blogging at **[garik.codes](https://www.garik.codes/)**
 
-- 🌸 Simple is powerful and beautiful, which is why I used **SvelteKit, Supabase, and Stripe** for booking a rental property in Wallowa County.
+- 🌸 Simple is powerful and beautiful, which is why I used **SvelteKit, Supabase, and Stripe** for [booking a rental property](https://main--exquisite-maamoul-e81859.netlify.app/) in Wallowa County.
 
 - ⚡ Polished experimental software for psychology researchers at Yale-NUS using **Unity, C#, and Python**
 
@@ -84,5 +84,3 @@ Blogging at **[garik.codes](https://www.garik.codes/)**
 <p align="left">
 <a href="https://linkedin.com/in/garik-asplund" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garik-asplund" height="30" width="40" /></a>
 </p>
-<br>
-<br>
