@@ -8,7 +8,7 @@ Blogging at **[garik.codes](https://www.garik.codes/)**
 
 - 🌸 Simple is powerful and beautiful, which is why I used **SvelteKit, Supabase, and Stripe** for [booking a rental property](https://main--exquisite-maamoul-e81859.netlify.app/) in Wallowa County
 
-- 🗓️ Used a similar stack for making [this website](https://celadon-capybara-5c42ba.netlify.app)) providing ADHD coaching
+- 🗓️ Used a similar stack for making [this website](https://celadon-capybara-5c42ba.netlify.app) providing ADHD coaching
 
 - ⚡ Polished experimental software for psychology researchers at Yale-NUS using **Unity, C#, and Python**
 
