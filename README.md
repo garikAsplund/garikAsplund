@@ -4,7 +4,11 @@
 
 Blogging at **[garik.codes](https://www.garik.codes/)**
 
-- 🌸 Simple is powerful and beautiful, which is why I used **SvelteKit, Supabase, and Stripe** for [booking a rental property](https://main--exquisite-maamoul-e81859.netlify.app/) in Wallowa County.
+- 👁️ Currently building the website for the [Asia Pacific Conference on Vision 2024](https://apcv2024.vercel.app) in Singapore
+
+- 🌸 Simple is powerful and beautiful, which is why I used **SvelteKit, Supabase, and Stripe** for [booking a rental property](https://main--exquisite-maamoul-e81859.netlify.app/) in Wallowa County
+
+- 🗓️ Used a similar stack for making [this website](https://main--exquisite-maamoul-e81859.netlify.app) providing ADHD coaching
 
 - ⚡ Polished experimental software for psychology researchers at Yale-NUS using **Unity, C#, and Python**
 
