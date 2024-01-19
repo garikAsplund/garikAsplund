@@ -4,6 +4,8 @@
 
 Blogging at **[garik.codes](https://www.garik.codes/)**
 
+- 📺 Writing videos for [Let's Get Rusty](https://www.youtube.com/@letsgetrusty), a YouTube channel with over 100k subscribers
+
 - 👁️ Currently building: [Asia Pacific Conference on Vision 2024](https://apcv2024.vercel.app) in Singapore
 
 - 🌸 Simple is powerful and beautiful, which is why I used **SvelteKit, Supabase, and Stripe** for [booking a rental property](https://main--exquisite-maamoul-e81859.netlify.app/) in Wallowa County
