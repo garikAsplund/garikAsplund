@@ -14,7 +14,7 @@ Blogging at **[garik.codes](https://www.garik.codes/)**
 
 - ⚡ Polished experimental software for psychology researchers at Yale-NUS using **Unity, C#, and Python**
 
-- 🔭 Recently troubleshooted [Quell](https://www.quell.dev/), a lightweight **GraphQL** caching solution for client- and server-side
+- 🔭 Recently troubleshooted [Quell](https://github.com/open-source-labs/Quell), a lightweight **GraphQL** caching solution for client- and server-side
 
 - 🦀 I’m learning **Rust** because I value *safety, smallness, and speed*
   
@@ -22,7 +22,7 @@ Blogging at **[garik.codes](https://www.garik.codes/)**
 
 - 💬 Ask me about **database management**
 
-- 📫 How to reach me **garik.asplund@gmail.com**
+- 📫 How to reach me **garik.asplund@&#8204;gmail.com**
 
 <h3 align="left">My skill set:</h3>
 <table><tr><td valign="top" width="33%">
