@@ -16,10 +16,10 @@
 
 🔭 Contributed to [Quell](https://github.com/open-source-labs/Quell), a lightweight **GraphQL** caching solution for client- and server-side
 
-🦀 Made a 2FA in **Rust** because I value *safety, smallness, and speed*
+🦀 Made a [2FA service](https://github.com/garikAsplund/authorize-oxidized) in **Rust** because I value *safety, smallness, and speed*
 
-🎒 Tutoring local students in coding courses
+🎒 Tutoring local students in the rural inland NW
 
-💬 Ask me about **database management**
+💬 Ask me about [**database management**](https://www.linkedin.com/posts/garik-asplund_datamanagement-surrealdb-datalake-activity-7039123639652274176-324c?utm_source=share&utm_medium=member_desktop)
 
 📫 Reach me at **garik.asplund@&#8204;gmail.com** or via [LinkedIn](https://linkedin.com/in/garik-asplund)
