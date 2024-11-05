@@ -12,9 +12,9 @@
 
 🗓️ Redesigned my favorite restaurant's website to go from [cluttered and confusing](https://rangerideroregon.com/) to [clean and intuitive](https://rangerider.netlify.app/)
 
-💅 Did a (glow up on a glamping rental)[https://cuyama-oaks.vercel.app] in Santa Barbara county
+💅 Did a [glow up on a glamping rental](https://cuyama-oaks.vercel.app) in Santa Barbara county
 
-🎸 Made a glorified link tree for the artist (Toska Bear)[https://www.toskabear.com]
+🎸 Made a glorified link tree for the artist [Toska Bear](https://www.toskabear.com)
 
 ⚡ Polished experimental software for psychology researchers at Yale-NUS using **Unity, C#, and Python**
 
