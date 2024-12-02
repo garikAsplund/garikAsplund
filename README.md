@@ -8,6 +8,8 @@
 
 ⛳ Brought [Alpine Meadows Golf Course](https://www.golfalpinemeadows.com/) into the present with [this redo](https://golfalpinemeadows.vercel.app/)
 
+🎿 Set up a club website for the [Eagle Cap Nordic Club](https://www.eaglecapnordic.org)
+
 👁️ Built the [Asia Pacific Conference on Vision 2024](https://apcv2024.com) website in Singapore
 
 🌸 Simple and clear design for [booking a rental property](https://main--exquisite-maamoul-e81859.netlify.app/) in Wallowa County
