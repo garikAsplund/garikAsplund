@@ -6,7 +6,7 @@
 
 📺 Writing videos for [Let's Get Rusty](https://www.youtube.com/@letsgetrusty), a YouTube channel with over 100k subscribers
 
-⛳ Brought [Alpine Meadows Golf Course](https://www.golfalpinemeadows.com/) into the present with [this redo](https://golfalpinemeadows.vercel.app/)
+⛳ Brought [Alpine Meadows Golf Course](https://web.archive.org/web/20250114182533/https://www.golfalpinemeadows.com/) into the present with [this redo](https://golfalpinemeadows.com)
 
 🎿 Set up a club website for the [Eagle Cap Nordic Club](https://www.eaglecapnordic.org)
 
@@ -16,7 +16,7 @@
 
 🗓️ Redesigned my favorite restaurant's website to go from [cluttered and confusing](https://rangerideroregon.com/) to [clean and intuitive](https://rangerider.netlify.app/)
 
-💅 Did a [glow up on a glamping rental](https://cuyama-oaks.vercel.app) in Santa Barbara county
+💅 Did a [glow up on a glamping rental](https://www.cuyamaoaksranch.com/) in Santa Barbara county
 
 🎸 Made a glorified link tree for the artist [Toska Bear](https://www.toskabear.com)
 
