@@ -6,6 +6,8 @@
 
 📺 Writing videos for [Let's Get Rusty](https://www.youtube.com/@letsgetrusty), a YouTube channel with over 100k subscribers
 
+🏃 Redo of Heavens Gate race website--from [this](https://heavensgatemarathon.blogspot.com/) outdated Blogger site to [this](https://heavens-gate.vercel.app/) clean and modern version
+
 ⛳ Brought [Alpine Meadows Golf Course](https://web.archive.org/web/20250114182533/https://www.golfalpinemeadows.com/) into the present with [this redo](https://golfalpinemeadows.com)
 
 🎿 Set up a club website for the [Eagle Cap Nordic Club](https://www.eaglecapnordic.org)
