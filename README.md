@@ -8,6 +8,8 @@
 
 🏃 Redo of Heavens Gate race website--from [this](https://heavensgatemarathon.blogspot.com/) outdated Blogger site to [this](https://heavens-gate.vercel.app/) clean and modern version
 
+⛰️ Updated the [Wallowa Land Trust website](https://wlt-xi.vercel.app/) to make it more accessible and information forward
+
 ⛳ Brought [Alpine Meadows Golf Course](https://web.archive.org/web/20250114182533/https://www.golfalpinemeadows.com/) into the present with [this redo](https://golfalpinemeadows.com)
 
 🎿 Set up a club website for the [Eagle Cap Nordic Club](https://www.eaglecapnordic.org)
