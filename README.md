@@ -30,7 +30,7 @@
 
 🦀 Made a [2FA service](https://github.com/garikAsplund/authorize-oxidized) in **Rust** because I value *safety, smallness, and speed*
 
-🎒 Tutoring local students in the rural inland NW
+🎒 Tutoring local students in the rural inland NW + volunteer for LEGO robotics
 
 💬 Ask me about [**database management**](https://www.linkedin.com/posts/garik-asplund_datamanagement-surrealdb-datalake-activity-7039123639652274176-324c?utm_source=share&utm_medium=member_desktop)
 
